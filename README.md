@@ -19,7 +19,7 @@
 
 ## Aufbau (First Prototype)
 1. Basics von Machine Learning
-  1. Shapes
+  1. Shapes/Vektoren in ML
   2. Basic Algorithmen
      1. Linear Regression
      2. Clustering

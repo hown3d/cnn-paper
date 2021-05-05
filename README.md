@@ -18,22 +18,24 @@
 - Aufbau von Pipelines für CNNs?
 
 ## Aufbau (First Prototype)
-1. Basics von Machine Learning
-  1. Shapes/Vektoren in ML
-  2. Basic Algorithmen
-     1. Linear Regression
-     2. Clustering
-     3. Classification
-  3. Neuronale Netze
-     1. Layer
-     1. Activation Functions (Linear, Relu, Sigmoid etc.)
-     2. Loss Functions/Gradient Descent
-     1. Feature Columns
-2. CNNs
-   1. Vergleich von NNs und CCNs
-   2. Convolutional Layers
-      1. Filtering/Padding
-   3. Datennormalisierung
-   3. Einsatzgebiete
-3. Einsatz von CNNs anhand eines Tensorflow/Keras Beispiels (Python)
-4. Quellenverzeichnis
+### Basics von Machine Learning
+1. Shapes/Vektoren in ML
+2. Basic Algorithmen
+   1. Linear Regression
+   2. Clustering
+   3. Classification
+3. Neuronale Netze
+   1. Layer
+   1. Activation Functions (Linear, Relu, Sigmoid etc.)
+   2. Loss Functions/Gradient Descent
+   1. Feature Columns
+   
+### CNNs
+ 1. Vergleich von NNs und CCNs
+ 2. Convolutional Layers
+    1. Filtering/Padding
+ 3. Datennormalisierung
+ 3. Einsatzgebiete
+
+### Einsatz von CNNs anhand eines Tensorflow/Keras Beispiels (Python)
+### Quellenverzeichnis

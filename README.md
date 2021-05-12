@@ -21,16 +21,16 @@
 
 ## Aufbau (First Prototype)
 ### Basics von Machine Learning
-1. Shapes/Vektoren in ML
-2. Basic Algorithmen
-   1. Linear Regression
-   2. Clustering
-   3. Classification
-3. Neuronale Netze
-   1. Layer
-   1. Activation Functions (Linear, Relu, Sigmoid etc.)
-   2. Loss Functions/Gradient Descent
-   1. Feature Columns
+#1. Shapes/Vektoren in ML
+#2. Basic Algorithmen
+#   1. Linear Regression
+#   2. Clustering
+#   3. Classification
+#3. Neuronale Netze
+#   1. Layer
+#   1. Activation Functions (Linear, Relu, Sigmoid etc.)
+#   2. Loss Functions/Gradient Descent
+#   1. Feature Columns
    
 ### CNNs
  1. Vergleich von NNs und CCNs

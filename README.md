@@ -6,6 +6,7 @@
 - [Neuronal Networks Basic in Tensorflow (Notebook)](https://colab.research.google.com/drive/1m2cg3D1x3j5vrFc-Cu0gMvc48gWyCOuG#forceEdit=true&sandboxMode=true)
 - [Deep Learning from Scratch, Seth Weidman](https://learning.oreilly.com/library/view/deep-learning-from/9781492041405/)
 - [Deep Learning with Python, Francois Chollet](https://learning.oreilly.com/library/view/deep-learning-with/9781617294433)
+- [Generative Deep Learning, David Foster](https://learning.oreilly.com/library/view/generative-deep-learning/9781492041931/ch02.html#idm45165186447048)
 
 ## Themen
 - Was machen CNNs besser wie Neuronale Netze?

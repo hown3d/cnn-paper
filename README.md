@@ -7,12 +7,14 @@
 - [Deep Learning from Scratch, Seth Weidman](https://learning.oreilly.com/library/view/deep-learning-from/9781492041405/)
 - [Deep Learning with Python, Francois Chollet](https://learning.oreilly.com/library/view/deep-learning-with/9781617294433)
 - [Generative Deep Learning, David Foster](https://learning.oreilly.com/library/view/generative-deep-learning/9781492041931)
+- [Advanced Applied Deep Learning : Convolutional Neural Networks and Object Detection, Umberto Michelucci](https://learning.oreilly.com/library/view/advanced-applied-deep/9781484249765)
 
 ## Themen
 - Was machen CNNs besser wie Neuronale Netze?
 - Einsatzgebiete von CNNs
   - not unified pictures
   - Gesichtserkennung
+  - Object Detection
 - Graphischer Datenverabeitungsaspekt von CNNs (Filtering, Padding etc.)
 - Vorteile/Nachteile von CNNs
 - Kurze Vorstellung von CNNs mit Tensorflow

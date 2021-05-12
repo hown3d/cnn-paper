@@ -11,6 +11,7 @@
 - Was machen CNNs besser wie Neuronale Netze?
 - Einsatzgebiete von CNNs
   - not unified pictures
+  - Gesichtserkennung
 - Graphischer Datenverabeitungsaspekt von CNNs (Filtering, Padding etc.)
 - Vorteile/Nachteile von CNNs
 - Kurze Vorstellung von CNNs mit Tensorflow

@@ -21,6 +21,9 @@
   - Notebook erstellen?
 - Aufbau von Pipelines für CNNs?
 
+## 15 Minuten Vortrag
+- Notebook erstellen, dass mit Tensorflow die Basics von CNNs darstellt
+
 ## Aufbau (First Prototype)
 **-- Eher vorraussetzen --**
 ### Basics von Machine Learning

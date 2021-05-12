@@ -20,7 +20,7 @@
 - Aufbau von Pipelines für CNNs?
 
 ## Aufbau (First Prototype)
--- Eher vorraussetzen --  
+**-- Eher vorraussetzen --**
 ### Basics von Machine Learning
 1. Shapes/Vektoren in ML
 2. Basic Algorithmen
@@ -32,7 +32,8 @@
    1. Activation Functions (Linear, Relu, Sigmoid etc.)
    2. Loss Functions/Gradient Descent
    1. Feature Columns
--- Eher vorraussetzen --  
+
+**-- Eher vorraussetzen --**
 
 ### CNNs
  1. Vergleich von NNs und CCNs

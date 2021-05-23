@@ -23,6 +23,8 @@
 
 ## 15 Minuten Vortrag
 - Notebook erstellen, dass mit Tensorflow die Basics von CNNs darstellt
+  - [Link zum Notebook](https://colab.research.google.com/drive/1UTcRq1wX_6fgcx-CjqD1PjG8yBBeBSvw#scrollTo=kkJ-1QKPloRG)
+
 
 ## Aufbau (First Prototype)
 **-- Eher vorraussetzen --**

@@ -20,5 +20,16 @@ Lukas Höhl, Yuki Shiono
 
 ---
 
-## Neural Networks
+## Grundlagen von Neural Networks
 
+---
+
+## Convolutional Neural Networks
+
+---
+
+## State of the Art
+
+---
+
+## Ausblick

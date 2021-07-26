@@ -1,5 +1,12 @@
 # WAI2 Convolutional neural networks
 
+## Presentation
+Die Presentation wurde mithilfe von Revealmd erstellt und kann mit folgendem Befehl im Browser verfügbar gemacht werden: 
+
+```
+reveal-md --theme simple presentation/presentation.md 
+```
+
 ## Research Links
 - [CNNs in Tensorflow (Notebook)](https://colab.research.google.com/drive/1ZZXnCjFEOkp_KdNcNabd14yok0BAIuwS#forceEdit=true&sandboxMode=true&scrollTo=tdqlqfhLCHZl)
   - [Video to this colab](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=16823s)

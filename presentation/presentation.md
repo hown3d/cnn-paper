@@ -23,10 +23,9 @@ Lukas Höhl, Yuki Shiono
 
 ## Grundlagen von Neural Networks
 
-![Neural Networks](./assets/neural-network-diagram.svg)
+<img src="assets/neural-network-diagram.svg" alt="Neural Network Diagram" style="width:700px;height=200px"/>
 
-<span style="font-size:0.5em;">Quelle: https://www.tibco.com/reference-center/what-is-a-neural-network
-</span>
+<span style="font-size:0.3em;">Quelle: https://www.tibco.com/reference-center/what-is-a-neural-network</span>
 
 ---
 
@@ -46,8 +45,7 @@ Lukas Höhl, Yuki Shiono
 
 ![object_detection](./assets/object_detection.png)
 
-<span style="font-size:0.5em;">Quelle: https://jonathan-hui.medium.com/real-time-object-detection-with-yolo-yolov2-28b1b93e2088
-</span>
+<span style="font-size:0.3em;">Quelle: https://jonathan-hui.medium.com/real-time-object-detection-with-yolo-yolov2-28b1b93e2088</span>
 
 ---
 
@@ -126,6 +124,65 @@ Note: Loss Function bewertet das Network auf Richtigkeit der Vorhersagen
 Note: Kurve ist Loss Function, wi ist parameter, g ist Gradient, misst den Zuwachs von der Loss Function mit Rucksicht auf Änderung der Parameter und wird auch Gradient genannt 
 
 ---
+
+## Wieso Conv Nets?
+- Dense Neural Networks können Pattern nur an einer bestimmten Stelle lernen
+
+---
+
+![dog_eyes1](./assets/dogs_eyes1.png)
+
+<span style="font-size:0.3em;">Quelle: https://colab.research.google.com/drive/1ZZXnCjFEOkp_KdNcNabd14yok0BAIuwS</span>
+
+- Dense Neural Network hat gelernt, wie Augen eines Hundes aussehen
+- Was passiert wenn das Bild gespiegelt wird?
+
+---
+
+![dog_eyes1](./assets/dogs_eyes2.png)
+
+<span style="font-size:0.3em;">Quelle: https://colab.research.google.com/drive/1ZZXnCjFEOkp_KdNcNabd14yok0BAIuwS</span>
+
+- Pattern werden vom DNN nur global gelernt!
+
+---
+
+## Wieso Conv Nets?
+- Conv Nets lernen Pattern lokal
+  - richtige Klassifikation bei Änderung im Bild 
+
+- Hierarchie Pattern
+
+---
+
+### Hierarchie Pattern
+
+![hierachie_pattern](./assets/hierachie_pattern.jpg)
+
+<span style="font-size:0.3em;">Quelle: Deep Learning with Python von Francois Chollet</span>
+
+---
+
+### Probleme treten trotzdem auf
+
+<img src="./assets/cnn_transform_statistic.png" alt="cnn_transformation_problem" style="width:900px;height=200px"/>
+
+<span style="font-size:0.3em;">Quelle: Shen, Xu ; Tian, Xinmei ; He, Anfeng ; Sun, Shaoyan ; Tao, Dacheng: Transform-Invariant Convolutional Neural Networks for Image Classification and Search</span>
+
+---
+
+#### TICNN
+
+- Aufgrund des vorherigen Problems entstanden
+- Transform-Invariant
+- Zufällige Transformationen auf das Bild während des Trainings
+
+🠆 Resistenter gegen Transformationen!
+
+
+---
+
+
 
 ## State of the Art
 * Einschränkung auf Image Classification
